@@ -1,0 +1,10 @@
+//Translate by: Dorzar / VeryHardChamp
+//Act.: 30/07/2017
+denseores.dense.prefix=ORENAME densa
+denseores.command.help=Transmite las texturas generadas de la carpeta 'denseoretextures'.
+denseores.commandIdentify.help=Identifica el nombre de registro del bloque y su textura
+denseores.commandIdentify.invalid=El objeto que sostiene no es un bloque
+denseores.commandIdentify.invalidtexture=No se puede encontrar una textura válida
+denseores.commandIdentify.multipleTextures=Hay varias texturas disponibles para S:baseBlockTexture
+denseores.commandIdentify.start=-= Analizando objeto: %s =-
+denseores.commandIdentify.obligitarydisclaimer=Descargo de responsabilidad: los valores no son 100% exactos
